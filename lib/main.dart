@@ -4,7 +4,6 @@ import 'package:imtihon2/Responsive/desktop/intro.dart';
 import 'package:imtihon2/Responsive/mobile/imtihon.dart';
 import 'package:imtihon2/Responsive/mobile/imtihon2.dart';
 import 'package:imtihon2/Responsive/mobile/imtihon3.dart';
-import 'package:imtihon2/Responsive/responsive_layout.dart';
 import 'package:imtihon2/SplashPage/splash.dart';
 
 import 'HomePage/homepage.dart';
